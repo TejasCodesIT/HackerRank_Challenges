@@ -29,12 +29,7 @@ public class FilterArray {
 			if(array[i]<value) System.out.println(array[i]);
 			
 		}
-		
-		
-		
-		
-		
-		
+
 		
 	}
 
