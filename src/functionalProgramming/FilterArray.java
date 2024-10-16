@@ -24,7 +24,7 @@ public class FilterArray {
 			array[i]=sc.nextInt();
 		}
 		
-		for(int i = 0 ; i<size ; i++) {
+		for(int i = 0 ; i<size-1 ; i++) {
 			
 			if(array[i]<value) System.out.println(array[i]);
 			
